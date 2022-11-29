@@ -1,0 +1,16 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "blog.hekto.co",
+  "home_page_url": "http://localhost/",
+  "feed_url": "http://localhost/feed.json",
+  "description": "Hekto Cloud Services",
+  "items": [
+    {
+      "id": "http://localhost/posts/hello-world/",
+      "url": "http://localhost/posts/hello-world/",
+      "title": "Monitor Created Resources",
+      "content_html": "<p>leverage agile frameworks to provide a robust synopsis for high level overviews.\niterative approaches to corporate strategy foster collaborative thinking to\nfurther the overall value proposition. organically grow the holistic world view\nof disruptive innovation via workplace diversity and empowerment.</p>",
+      "date_published": "2022-11-12T22:00:00Z"
+    }
+  ]
+}
