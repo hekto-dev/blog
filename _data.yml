@@ -1,10 +1,10 @@
 home:
-  welcome: Hello, I am a person that writes stuff.
+  welcome: Hekto Cloud Services
 
 # Metas plugin https://lume.land/plugins/metas/#description
 metas:
-  site: cloudish.co
-  description: This is an example of a Lume blog theme
+  site: blog.hekto.co
+  description: Hekto Cloud Services
   twitter: "@skorfmann"
   lang: en
 
