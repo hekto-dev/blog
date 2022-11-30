@@ -1,10 +1,10 @@
 home:
-  welcome: Hekto Cloud Services
+  welcome: Hekto Cloud
 
 # Metas plugin https://lume.land/plugins/metas/#description
 metas:
   site: blog.hekto.co
-  description: Hekto Cloud Services
+  description: Hekto Cloud
   twitter: "@skorfmann"
   lang: en
 
