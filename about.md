@@ -6,4 +6,4 @@ menu:
   order: 2
 ---
 
-Hekto Cloud is a project by [Sebastian Korfmann](https://www.linkedin.com/in/skorfmann/)
+Hekto is a project by [Sebastian Korfmann](https://www.linkedin.com/in/skorfmann/)
