@@ -1,6 +1,6 @@
 ---
 title: "WasmEdge Server Runtime"
-date: 2022-12-01T10:00:00
+date: 2022-12-06T10:00:00
 author: Sebastian Korfmann
 tags:
   - wasm
