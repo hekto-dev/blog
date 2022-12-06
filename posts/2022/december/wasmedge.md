@@ -14,7 +14,7 @@ There are several options for running WebAssembly on the server, each with its o
 
 ## WasmEdge
 
-[WasmEdge](https://wasmedge.org/), an [open source] project by [SecondState](https://www.secondstate.io/), is a CNCF [sandbox project](https://www.cncf.io/projects/wasmedge-runtime/). It's a WASM runtime build primarily in C++.
+[WasmEdge](https://wasmedge.org/), an open source project by [SecondState](https://www.secondstate.io/), is a CNCF [sandbox project](https://www.cncf.io/projects/wasmedge-runtime/). It's a WASM runtime build primarily in C++.
 
 They are targeting non-browser environments. For example, Wasmedge provides a [quickjs](https://bellard.org/quickjs/) based [Javascript guest](https://wasmedge.org/book/en/write_wasm/js.html) environment with a Nodejs compatibility layer build on top of it (not full coverage yet). Here's a [recent talk](https://www.youtube.com/watch?v=UogNdp-0Bgs&ab_channel=TheLinuxFoundation) with more background about it.
 
